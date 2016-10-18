@@ -1,1 +1,3 @@
 // My Scripts
+
+$('body').fitVids();
